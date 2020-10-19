@@ -1,0 +1,7 @@
+crissotto:x:1001:1001:Carlos Rissotto OPERARIO_PUERTO:/home/crissotto:/bin/bash
+dblanco:x:1002:1002:Diego Blanco OPERARIO_PATIO:/home/dblanco:/bin/bash
+apineyro:x:1003:1003:Alejandro Pineyro TRANSPORTISTA:/home/apineyro:/bin/bash
+smorales:x:1004:1004:Santiago Morales ADMINISTRADOR:/home/smorales:/bin/bash
+gbergessio:x:1005:1003:Gonzalo Bergessio TRANSPORTISTA:/home/gbergessio:/bin/bash
+mmario:x:1006:1001:Mario Mario OPERARIO_PUERTO:/home/mmario:/bin/bash
+jfrusciante:x:1007:1004:John Frusciante ADMINISTRADOR:/home/jfrusciante:/bin/bash

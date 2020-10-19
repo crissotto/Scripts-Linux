@@ -1,0 +1,21 @@
+rperez|Rodrigo|Perez|password|0|ACTIVO|ADMINISTRADOR|0||
+apineyro|Alejandro|Piñeyro|password|0|ACTIVO|TRANSPORTISTA|0||
+dblanco|Diego|Blanco|password|0|ACTIVO|ADMINISTRADOR|0||
+dforlan|Diego|Forlan|password|0|ACTIVO|OPERARIO_PATIO|0||
+smorales|Santiago|Morales|password|0|ACTIVO|OPERARIO_PUERTO|0||
+lsuarez|Luis|Suarez|password|1|INACTIVO|ADMINISTRADOR|0||
+dgodin|Diego|Godin|password|1|INACTIVO|OPERARIO_PATIO|0||
+fespinoza|Federico|Espinosa|password|1|INACTIVO|OPERARIO_PUERTO|0||
+fsimon|Francisco|Simon|password|1|INACTIVO|TRANSPORTISTA|0||
+jrodriguez|Julio|Rodriguez|password|0|SUSPENDIDO|ADMINISTRADOR|0||
+pgonzalez|Pedro|Gonzalez|password|0|SUSPENDIDO|OPERARIO_PATIO|0||
+pgimenez|Pepe|Gimenez|password|0|SUSPENDIDO|OPERARIO_PUERTO|0||
+nsouza|Natalia|Souza|password|0|SUSPENDIDO|TRANSPORTISTA|0||
+jmichibata|Jessica|Michibatta|password|0|BLOQUEADO|ADMINISTRADOR|0||
+jbutton|Jenson|Button|password|0|BLOQUEADO|OPERARIO_PATIO|0||
+bbeall|Brittny|Beall|password|0|BLOQUEADO|OPERARIO_PUERTO|0||
+jsnow|John|Snow|password|0|BLOQUEADO|TRANSPORTISTA|0||
+dramone1|Deedee|Ramone|\ |0|ACTIVO|ADMINISTRADOR|0||
+crissotto|Carlos|Rissotto|\ |0|ACTIVO|OPERARIO_PUERTO|0||
+gbergessio|Gonzalo|Bergessio|\ |0|ACTIVO|TRANSPORTISTA|0||
+mmario|Mario|Mario|\ |0|ACTIVO|OPERARIO_PUERTO|0||

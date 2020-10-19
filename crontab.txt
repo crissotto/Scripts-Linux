@@ -1,0 +1,24 @@
+00 08 * * mon-fri root sh /home/admin/LOGS/logshistoricologueados.sh
+00 08 * * mon-fri root sh /home/admin/LOGS/logshistoricodeslogueados.sh
+00 08 * * mon-fri root sh /home/admin/LOGS/logshistoricosconectados.sh
+00 08 * * mon-fri root sh /home/admin/LOGS/logshistoricodesfallidos.sh
+00 19 * * mon-fri root sh /home/admin/LOGS/logshistoricologueados.sh
+00 19 * * mon-fri root sh /home/admin/LOGS/logshistoricodeslogueados.sh
+00 19 * * mon-fri root sh /home/admin/LOGS/logshistoricofallidos.sh
+00 19 * * mon-fri root sh /home/admin/LOGS/logshistoricosconectados.sh
+00 09 * * mon-fri root rm -rf /home/admin/BACKUP/respaldologs/respaldologsconectados/conectados/*
+00 20 * * mon-fri root rm -rf /home/admin/BACKUP/respaldologs/respaldologsconectados/conectados/*
+00 09 * * mon-fri root rm -rf /home/admin/BACKUP/respaldologs/respaldologslogueados/logueados/*
+00 20 * * mon-fri root rm -rf /home/admin/BACKUP/respaldologs/respaldologslogueados/logueados/*
+00 09 * * mon-fri root rm -rf /home/admin/BACKUP/respaldologs/respaldologsdeslogueados/deslogueados/*
+00 20 * * mon-fri root rm -rf /home/admin/BACKUP/respaldologs/respaldologsdeslogueados/deslogueados/*
+00 09 * * mon-fri root rm -rf /home/admin/BACKUP/respaldologs/respaldologsfallidos/fallidos/*
+00 20 * * mon-fri root rm -rf /home/admin/BACKUP/respaldologs/respaldologsfallidos/fallidos/*
+*/240 16 * * 1-6	  root sh /home/admin/BACKUP/backupbddiferencial.sh
+00 23 * * sun     root rm -rf /home/admin/BACKUP/backupbdtotal/*
+00 00 * * sun	  root sh /home/admin/BACKUP/backupbdtotal.sh
+30 20 1 * *       root sh /home/admin/BACKUP/backuphometotal.sh
+30 20 15,28 * *   root sh /home/admin/BACKUP/backuphomediferencial.sh
+30 21 30 * *      root sh /home/admin/BACKUP/backupsysconfigtotal.sh
+30 21 15,28 * *   root sh /home/admin/BACKUP/backupsysconfigdiferencial.sh
+			 
